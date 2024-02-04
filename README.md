@@ -1,7 +1,6 @@
 # Welcome to my page !
 ![it's me](https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif)
-## Im Marta , 25 years old and i live in the capital city of Germany , Berlin!
-![Berlin](https://indiaoutbound.info/wp-content/uploads/2022/08/places-to-visit-in-berlin-germany.jpg)
+## New in web development, I'm motivated to start a professional journey to learn, create, and contribute with my skills
 ### Currently 
 - Junior Web Developer
 ### My favourite Hobbys are:
