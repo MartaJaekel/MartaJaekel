@@ -7,5 +7,6 @@
 - Cooking 👩‍🍳
 - Hiking 🥾
 - Ping Pong 🏓
- ### View my latest Projects
+ ###  Check out my Portfolio to view my latest Projects
+ - [Portfolio](https://portfolio-xi-gules-87.vercel.app/)
  
