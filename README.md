@@ -1,4 +1,4 @@
-![Alt text](https://artes.phil-fak.uni-koeln.de/sites/artesGS/_processed_/5/0/csm_Wurth_Titelbild_61feec9214.jpg
+![Alt text](https://images.photowall.com/products/48666/blossom-1.jpg?h=699&q=85
 )
 
 ### ✨New in Web Development✨
