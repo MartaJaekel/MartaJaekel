@@ -1,4 +1,4 @@
-(![birds](https://github.com/MartaJaekel/MartaJaekel/assets/147980927/04646747-a278-40eb-9af3-07efb4c99711)
+![birds](https://github.com/MartaJaekel/MartaJaekel/assets/147980927/04646747-a278-40eb-9af3-07efb4c99711)
 
 )
 
