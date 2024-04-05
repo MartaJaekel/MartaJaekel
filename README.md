@@ -4,7 +4,7 @@
 
 ### ✨Web Development✨
 ### Currently 
-- Junior Full Stack Developer
+- Junior Web Developer
 ### My favourite Hobbys are:
 - Cooking 👩‍🍳
 - Hiking 🥾
