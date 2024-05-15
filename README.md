@@ -4,7 +4,7 @@
 
 ### ✨Web Development✨
 ### Currently 
-- Junior Web Developer
+- Intern Engineer
 ### My favourite Hobbys are:
 - Cooking 👩‍🍳
 - Hiking 🥾
