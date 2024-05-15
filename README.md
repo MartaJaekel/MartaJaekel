@@ -4,8 +4,8 @@
 
 ### ✨Web Development✨
 ### Currently 
-- Intern Engineer
+- Intern Software Engineer
 ### My favourite Hobbys are:
 - Cooking 👩‍🍳
 - Hiking 🥾
-- Ping Pong 🏓
+- Coding 
