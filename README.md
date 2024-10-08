@@ -8,4 +8,4 @@
 ### My favourite Hobbys are:
 - Cooking 👩‍🍳
 - Hiking 🥾
-- Coding 
+- Coding 👩🏼‍💻
