@@ -4,7 +4,7 @@
 
 ### ✨Web Development✨
 ### Currently 
-- Intern Software Engineer
+- Junior Software Engineer
 ### My favourite Hobbys are:
 - Cooking 👩‍🍳
 - Hiking 🥾
