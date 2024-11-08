@@ -5,6 +5,7 @@
 ### ✨Web Development✨
 ### Currently 
 - Junior Software Engineer
+- Freelancing, creating websites for people
 ### My favourite Hobbys are:
 - Cooking 👩‍🍳
 - Hiking 🥾
